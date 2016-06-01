@@ -1,0 +1,5 @@
+# a $
+>q0 q1:0,r: q_reject:$,r:
+q1 q_reject:0,r: q_accept:$,r:
+*q_accept - q_accept:$,r:
+q_reject q_reject:0,r: q_reject:$,r:
